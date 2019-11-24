@@ -2234,7 +2234,7 @@ input::-moz-focus-inner {
 
 .header__logo img {
   width: 125px;
-  height: 60px;
+  height: 30px;
   margin: 0;
 }
 
@@ -2778,7 +2778,7 @@ body.search-is-visible {
 
   .header__logo img {
     width: 120px;
-    height: 58px;
+    height: 29px;
   }
 
   .header__nav-wrap {
